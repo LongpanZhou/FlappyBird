@@ -3,7 +3,8 @@ Simple FlappyBird Game
 
 ## Requirements
 Lib used: pygame & Neat Python
-```pip install pygame
+```
+   pip install pygame
    pip install neat-python
 ```
 
