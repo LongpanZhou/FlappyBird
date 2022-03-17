@@ -16,5 +16,4 @@ Pause: Escape key
 simply click on the flappy bird AI image on the top left corner of the intro screen
 
 ## Interface
-Picture of the interface
 ![](readme/Interface.png)
