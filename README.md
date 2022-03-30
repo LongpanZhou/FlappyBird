@@ -1,5 +1,6 @@
 # FlappyBird
 Simple FlappyBird Game
+-Guided by Tech With Tims Tutorial
 
 ## Requirements
 Lib used: pygame & Neat Python
